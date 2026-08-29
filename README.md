@@ -1,10 +1,10 @@
-<div align="center">
+&lt;div align="center"&gt;
 
 # 👋 你好，我是 Zlongyang
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E5%8D%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6+25%E7%BA%A7+%7C+%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B;Agent+%2F+RAG+%E6%8E%A2%E7%B4%A2%E8%80%85;AIGC+%C2%B7+%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+%E7%88%B1%E5%A5%BD%E8%80%85;%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BD%97%E5%BE%B7%E5%B2%9B%E5%8D%9A%E5%A3%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E5%8D%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6+25%E7%BA%A7+%7C+%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B;Agent+%2F+RAG+%E6%8E%A2%E7%B4%A2%E8%80%85;AIGC+%C2%B7+%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+%E7%88%B1%E5%A5%BD%E8%80%85;%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BD%97%E5%BE%B7%E5%B2%9B%E5%8D%9A%E5%A3%AB)](https://git.io/typing-svg)
 
-</div>
+&lt;/div&gt;
 
 ---
 
@@ -20,31 +20,31 @@
 
 ## 🚀 代表项目
 
-<table>
-<tr>
-<td>
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
 
 ### 📰 [news-rag-engine](https://github.com/Zlongyang/news-rag-engine)
 
-> 一个完善的新闻领域 RAG（检索增强生成）引擎
->
-> 🔧 覆盖文档切分、向量化、检索、重排到生成的完整链路
->
-> ⭐ 如果觉得有帮助，欢迎 Star！
+&gt; 一个完善的新闻领域 RAG（检索增强生成）引擎
+&gt;
+&gt; 🔧 覆盖文档切分、向量化、检索、重排到生成的完整链路
+&gt;
+&gt; ⭐ 如果觉得有帮助，欢迎 Star！
 
-</td>
-</tr>
-</table>
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
 ---
 
 ## 🛠️ 技术栈
 
-<div align="center">
+&lt;div align="center"&gt;
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,linux,git,docker,mysql,pytorch&theme=dark)](https://skillicons.dev)
 
-</div>
+&lt;/div&gt;
 
 **专注方向**
 
@@ -58,14 +58,16 @@
 
 ## 📊 GitHub 数据
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zlongyang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlongyang&layout=compact&theme=tokyonight&hide_border=true" />
+&lt;img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zlongyang&theme=tokyonight" /&gt;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zlongyang&theme=tokyonight&hide_border=true" />
+&lt;img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zlongyang&theme=tokyonight" /&gt;
+&lt;img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zlongyang&theme=tokyonight" /&gt;
 
-</div>
+&lt;img src="https://streak-stats.demolab.com/?user=Zlongyang&theme=tokyonight&hide_border=true" /&gt;
+
+&lt;/div&gt;
 
 ---
 
@@ -81,16 +83,16 @@
 
 ## 📫 找到我
 
-<div align="center">
+&lt;div align="center"&gt;
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zlongyang-181717?style=for-the-badge&logo=github)](https://github.com/Zlongyang)
 
-</div>
+&lt;/div&gt;
 
-<div align="center">
+&lt;div align="center"&gt;
 
-> *"博士，您还有许多事情需要处理。现在还不能休息哦。"* —— 阿米娅
+&gt; *"博士，您还有许多事情需要处理。现在还不能休息哦。"* —— 阿米娅
 
 ![Visitors](https://komarev.com/ghpvc/?username=Zlongyang&color=58A6FF&style=flat-square&label=Profile+Views)
 
-</div>
+&lt;/div&gt;
